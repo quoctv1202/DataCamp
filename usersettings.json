@@ -1,0 +1,88 @@
+{
+    "explorer.confirmDelete": false,
+    "editor.tabSize": 2,
+    "explorer.confirmDragAndDrop": false,
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "window.zoomLevel": 0,
+    "javascript.format.enable": false,
+    "javascript.format.insertSpaceAfterCommaDelimiter": false,
+    "javascript.format.insertSpaceAfterConstructor": false,
+    "[ruby]": {
+        "editor.formatOnSave": false,
+    },
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "git.autofetch": true,
+    "window.zoomLevel": 0,
+    "emmet.includeLanguages": {
+        "erb": "html",
+        "html.erb": "html"
+    },
+    "beautify.language": {
+        "js": {
+            "type": [
+                "javascript",
+                "json",
+                "js.erb"
+            ],
+            "filename": [
+                ".jshintrc",
+                ".jsbeautifyrc",
+                ".js.erb"
+            ]
+            // "ext": ["js", "json"]
+            // ^^ to set extensions to be beautified using the javascript beautifier
+        },
+        "css": [
+            "css",
+            "scss"
+        ],
+        "html": [
+            "htm",
+            "html",
+            "html.erb"
+        ],
+        // ^^ providing just an array sets the VS Code file type
+    },
+    //"editor.formatOnSave": true,
+    "html.format.indentHandlebars": true,
+    "color-highlight.markerType": "outline",
+    "[html]": {
+        "editor.formatOnSave": true
+    },
+    "indentRainbow.colors": [
+        "rgba(46,36,46,0.1)",
+        "rgba(46,36,46,0.3)",
+        "rgba(46,36,46,0.5)",
+        "rgba(46,36,46,0.7)",
+        "rgba(46,36,46,0.9)"
+    ],
+    "files.insertFinalNewline": true,
+}
+
+angular 7 snippets
+angular v6 snippets
+beautify
+bootstrap 3 snippets
+bracket pair colorizer
+color highlight
+erb
+html snippets
+indent-rainbow
+material icon theme
+python
+rails
+ruby on rails
+rufo
+sass
+scss intellisense
+simple ruby erb
+slim
+sublimetex keymap and setting importer
+vscode-icon
+vscode-gemfile
